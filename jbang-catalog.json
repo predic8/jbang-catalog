@@ -1,11 +1,11 @@
 {
   "aliases": {
     "h2": {
-        "script-ref": "jbang/h2.java",
+      "script-ref": "h2.java",
       "description": "Starts the h2 database server"
     },
     "sql": {
-      "script-ref": "jbang/sql.java",
+      "script-ref": "sql.java",
       "description": "Commandline to execute SQL command"
     },
     "membrane": {
